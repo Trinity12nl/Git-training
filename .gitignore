@@ -1,0 +1,15 @@
+administrator/backups/*
+administrator/cache/*
+administrator/tmp/*
+cache/*
+components/libraries/cmslib/cache/*
+configuration.php
+dmdocuments/*
+images/banners/*
+images/stories/*
+logs/*
+media/*
+!media/system/*
+plugins/tmp/*
+tmp/*
+xmlrpc/cache/*
